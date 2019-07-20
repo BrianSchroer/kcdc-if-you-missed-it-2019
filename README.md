@@ -110,7 +110,6 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 [![still image from video](https://cfvod.kaltura.com/p/1926081/sp/192608100/thumbnail/entry_id/1_vq81qnci/version/100001/width/312/height/400)](https://www.oreilly.com/library/view/oreilly-software-architecture/9781492025917/video323656.html)
 
 ### [Service Mesh Magic? - Frank Munz](https://www.kcdc.info/session/ses-80694)
-(https://www.kcdc.info/session/ses-84475)
 [![still image from video](https://img.youtube.com/vi/7yQaaPhqsZw/0.jpg)](https://www.youtube.com/watch?v=7yQaaPhqsZw)
 
 ### [Software Testing From Failed Projects - Todd Gardner](https://www.kcdc.info/session/ses-81938)
