@@ -58,3 +58,6 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [Focusing on Focus - Chris DeMars](https://www.kcdc.info/session/ses-77877)
 [![still image from video](https://img.youtube.com/vi/gUK0ieCJkRI/0.jpg)](https://www.youtube.com/watch?v=gUK0ieCJkRI)
+
+### [From localhost to production: Managing your code with Azure DevOps - Jay Harris](https://www.kcdc.info/session/ses-79285)
+[![still image from video](https://img.youtube.com/vi/x3Ww7-hcZvw/0.jpg)](https://www.youtube.com/watch?v=x3Ww7-hcZvw)
