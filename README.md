@@ -81,5 +81,18 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 [![still image from video](https://img.youtube.com/vi/nmWrLqsT-XU/0.jpg)](https://www.youtube.com/watch?v=nmWrLqsT-XU)
 
 ### [Mirror mirror on the wall, what is the vainest metric of them all? - Paul Stack](https://www.kcdc.info/session/ses-101352)
-
 [![still image from video](https://img.youtube.com/vi/XJsgvyMm-HY/0.jpg)](https://www.youtube.com/watch?v=XJsgvyMm-HY)
+
+### [Node.js Crash Course - David Neal](https://www.kcdc.info/session/ses-85401)
+*This video is from August 2016. It's high quality information, but things move quickly in the JavaScript world, so...*
+
+[![still image from video](https://img.youtube.com/vi/8d6kJYqFWoQ/0.jpg)](https://www.youtube.com/watch?v=8d6kJYqFWoQ)
+
+### [OAuth 2.0 and OpenID Connect In Plain English - Micah Silverman](https://www.kcdc.info/session/ses-84370)
+[![still image from video](https://img.youtube.com/vi/g1VyR6MWPgE/0.jpg)](https://www.youtube.com/watch?v=g1VyR6MWPgE)
+
+### [Rapid Cross-Platform AR Development with React Native - Alex Hinson](https://www.kcdc.info/session/ses-78147)
+[![still image from video](https://img.youtube.com/vi/g0EGEnL9f4Q/0.jpg)](https://www.youtube.com/watch?v=g0EGEnL9f4Q)
+
+### [Reactive for the Impatient - Mary Grygleski ](https://www.kcdc.info/session/ses-80263)
+[![still image from video](https://img.youtube.com/vi/V2zVvoD9qLQ/0.jpg)](https://www.youtube.com/watch?v=V2zVvoD9qLQ)
