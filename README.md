@@ -1,5 +1,7 @@
 # kcdc-if-you-missed-it-2019
-If you missed a session at [KCDC 2019](https://www.kcdc.info/sessions) (or if you missed the whole conference), there may be a video of that session from another conference. Here are the ones I found:
+If you missed a session at [KCDC 2019](https://www.kcdc.info/sessions) (or if you missed the whole conference), there may be a video of that session from another conference that you can see. 
+
+Here are the ones I found. The session titles are links to their synopses on the KCDC site. When I found multiple videos for a talk, I linked to the latest one, assuming it's the most polished and up-to-date. If you know of any recordings that I didn't find, or of better recordings of the talks, let me know via a an issue or pull request.
 
 ### [A Piece of Cake - C# powered cross platform build automation - Gary Ewan Park](https://www.kcdc.info/session/ses-83401)
 [![still image from video](https://i.vimeocdn.com/video/577230796_590x332.webp)](https://vimeo.com/171704581)
@@ -36,5 +38,8 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 ### [Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems](https://www.kcdc.info/session/ses-83833)
 [![still image from video](https://img.youtube.com/vi/h6ExDXS2JCI/0.jpg)](https://www.youtube.com/watch?v=h6ExDXS2JCI)
 
-### [From Business Intelligence to Artificial Intelligence - Caleb Wilkinson](https://www.kcdc.info/session/ses-129050)
+### [Business Intelligence to Artificial Intelligence - Caleb Wilkinson](https://www.kcdc.info/session/ses-129050)
 [![still image from video](https://img.youtube.com/vi/NmxYWmx5oNA/0.jpg)](https://www.youtube.com/watch?v=NmxYWmx5oNA)
+
+### [CI/CD - More Than an Acronym, It's a culture shift - James Quick](https://www.kcdc.info/session/ses-81852)
+[![still image from video](https://img.youtube.com/vi/SyXlonXdZsc/0.jpg)](https://www.youtube.com/watch?v=SyXlonXdZsc)
