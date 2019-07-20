@@ -96,3 +96,6 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [Reactive for the Impatient - Mary Grygleski ](https://www.kcdc.info/session/ses-80263)
 [![still image from video](https://img.youtube.com/vi/V2zVvoD9qLQ/0.jpg)](https://www.youtube.com/watch?v=V2zVvoD9qLQ)
+
+### [Real life use cases for Machine Learning - Heli Helskyaho](https://www.kcdc.info/session/ses-79878)
+[![still image from video](https://i.vimeocdn.com/video/751122883_590x332.webp)](https://vimeo.com/310495919)
