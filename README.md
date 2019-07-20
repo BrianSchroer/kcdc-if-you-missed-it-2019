@@ -127,3 +127,12 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [The Moon: Gateway to the Solar System - Richard Campbell](https://www.kcdc.info/session/ses-85343)
 [![still image from video](https://img.youtube.com/vi/bLN1UOT8mM0/0.jpg)](https://www.youtube.com/watch?v=bLN1UOT8mM0)
+
+### [Thinking in SQL - Michael Swieton](https://www.kcdc.info/session/ses-78086)
+[![still image from video](https://img.youtube.com/vi/YQmOYiw6iHQ/0.jpg)](https://www.youtube.com/watch?v=YQmOYiw6iHQ)
+
+### [What vulnerabilities? Live hacking of containers and orchestrators - Lewis Denham-Parry](https://www.kcdc.info/session/ses-134099)
+[![still image from video](https://img.youtube.com/vi/JaMJJTb_bEE/0.jpg)](https://www.youtube.com/watch?v=JaMJJTb_bEE)
+
+### [When Azure AD is Not Enough: Creating a Token Service in ASP.NET Core - Roland Guijt](https://www.kcdc.info/session/ses-82606)
+[![still image from video](https://img.youtube.com/vi/MJCDCqVLqRo/0.jpg)](https://www.youtube.com/watch?v=MJCDCqVLqRo)
