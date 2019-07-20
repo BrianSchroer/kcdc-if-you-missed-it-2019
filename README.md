@@ -99,3 +99,9 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [Real life use cases for Machine Learning - Heli Helskyaho](https://www.kcdc.info/session/ses-79878)
 [![still image from video](https://i.vimeocdn.com/video/751122883_590x332.webp)](https://vimeo.com/310495919)
+
+### [Rock-Solid Components with TypeScript and GraphQL - Mat Warger](https://www.kcdc.info/session/ses-78152)
+[![still image from video](https://img.youtube.com/vi/D-6CzdNCLtQ/0.jpg)](https://www.youtube.com/watch?v=D-6CzdNCLtQ)
+
+### [Scaling Agile in your Organization with the Spotify Model - Stephen Haunts](https://www.kcdc.info/session/ses-84475)
+[![still image from video](https://img.youtube.com/vi/dw6wJMqzl2Y/0.jpg)](https://www.youtube.com/watch?v=dw6wJMqzl2Y)
