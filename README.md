@@ -118,3 +118,12 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [SOLID – The Five Commandments of Good Software - Chris Klug](https://www.kcdc.info/session/ses-80494)
 [![still image from video](https://sec.ch9.ms/ch9/bb3d/76f3ba6d-f9b3-49c4-9643-2f6aef39bb3d/VSLive17SolidThefiveCommandmentsofGoodSoftware_512.jpg)](https://channel9.msdn.com/Events/Visual-Studio/Live-2017/W19)
+
+### [Taming Styles of Python Programming - Jigyasa Grover](https://www.kcdc.info/session/ses-81375)
+[![still image from video](https://img.youtube.com/vi/pYb_CwYZ0vM/0.jpg)](https://www.youtube.com/watch?v=pYb_CwYZ0vM)
+
+### [The Automation Firehose: Be Strategic and Tactical - Thomas Haver](https://www.kcdc.info/session/ses-81905)
+[![still image from video](https://img.youtube.com/vi/8TiEBG06ifo/0.jpg)](https://www.youtube.com/watch?v=8TiEBG06ifo)
+
+### [The Moon: Gateway to the Solar System - Richard Campbell](https://www.kcdc.info/session/ses-85343)
+[![still image from video](https://img.youtube.com/vi/bLN1UOT8mM0/0.jpg)](https://www.youtube.com/watch?v=bLN1UOT8mM0)
