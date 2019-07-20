@@ -28,6 +28,8 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 <https://www.youtube.com/watch?v=0_6pSLVkaMM>
 
+[![link to video](https://img.youtube.com/vi/0_6pSLVkaMM/0.jpg)](https://www.youtube.com/watch?v=0_6pSLVkaMM)
+
 ### An Introduction to WebAssembly - Guy Royse
 [*session synopsis*](https://www.kcdc.info/session/ses-77823)
 
