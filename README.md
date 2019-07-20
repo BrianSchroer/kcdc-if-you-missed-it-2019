@@ -64,3 +64,6 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [Getting started with Azure Machine Learning services - Henk Boelman](https://www.kcdc.info/session/ses-83380)
 [![still image from video](https://img.youtube.com/vi/dwiVnrTC5Do/0.jpg)](https://www.youtube.com/watch?v=dwiVnrTC5Do)
+
+### [Graph Algorithms: Predict Real-World Behavior - Jennifer Reif](https://www.kcdc.info/session/ses-84652)
+[![still image from video](https://img.youtube.com/vi/dlL7WRFskTg/0.jpg)](https://www.youtube.com/watch?v=dlL7WRFskTg)
