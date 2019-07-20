@@ -43,3 +43,6 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [CI/CD - More Than an Acronym, It's a culture shift - James Quick](https://www.kcdc.info/session/ses-81852)
 [![still image from video](https://img.youtube.com/vi/SyXlonXdZsc/0.jpg)](https://www.youtube.com/watch?v=SyXlonXdZsc)
+
+### [Ctrl-Alt-Del: Learning to Love Legacy Code - Dylan Beattie](https://www.kcdc.info/session/ses-85480)
+[![still image from video](https://i.vimeocdn.com/video/709886015_590x332.webp)](https://vimeo.com/275529979)
