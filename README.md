@@ -67,3 +67,6 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [Graph Algorithms: Predict Real-World Behavior - Jennifer Reif](https://www.kcdc.info/session/ses-84652)
 [![still image from video](https://img.youtube.com/vi/dlL7WRFskTg/0.jpg)](https://www.youtube.com/watch?v=dlL7WRFskTg)
+
+### [How not to be the best app no one uses: Effective Onboarding for fun & profit - Kendall Miller](https://www.kcdc.info/session/ses-82459)
+[![still image from video](https://img.youtube.com/vi/BvVNGTAbPss/0.jpg)](https://www.youtube.com/watch?v=BvVNGTAbPss)
