@@ -16,8 +16,10 @@ If you missed a session at [KCDC 2019](https://www.kcdc.info/sessions) (or if yo
 
 [http://www.reshiftinnovation.nl/videolibrary/future-tech-2019-hakan-silfvernagel-affective-computing-what-is-it-and-why-should-i-care/]
 
-### AkkaStreams for Mere Mortals - Vagif Abilov (in Russian)
+### AkkaStreams for Mere Mortals - Vagif Abilov
 [description](https://www.kcdc.info/session/ses-79048)
+
+This video is in Russian, but there's an English transcript you can read. Or, learn Akka and Russian at the same time! I for one welcome our new overlords.
 
 [https://weekly-geekly.github.io/articles/418639/index.html]
 
@@ -44,7 +46,7 @@ If you missed a session at [KCDC 2019](https://www.kcdc.info/sessions) (or if yo
 ### Building a mobile enterprise application with Xamarin.Forms, Docker, MVVM and .NET Core - Gill Cleeren
 [description](https://www.kcdc.info/session/ses-80372)
 
-[https://www.updateconference.net/cs/2018/session/building-a-mobile-enterprise-application-with-xamarin-forms--docker--mvvm-and--net-core
+[https://www.updateconference.net/cs/2018/session/building-a-mobile-enterprise-application-with-xamarin-forms--docker--mvvm-and--net-core]
 
 ### Building High Performance React Applications - Joe Karlsson
 [description](https://www.kcdc.info/session/ses-80582)
@@ -60,14 +62,3 @@ If you missed a session at [KCDC 2019](https://www.kcdc.info/sessions) (or if yo
 [description](https://www.kcdc.info/session/ses-129050)
 
 [https://www.youtube.com/watch?v=NmxYWmx5oNA]
-
-
-
-
-
-
-
-
-
-
-
