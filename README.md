@@ -49,3 +49,6 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [Deep Learning in the world of little ponies - Galiya Warrier](https://www.kcdc.info/session/ses-81893)
 [![still image from video](https://img.youtube.com/vi/tJKXGlIhris/0.jpg)](https://www.youtube.com/watch?v=StJKXGlIhris)
+
+### [Deep Learning like a Viking: Building Convolutional Neural Networks with Keras - Guy Royse](https://www.kcdc.info/session/ses-77822)
+[![still image from video](https://img.youtube.com/vi/r2B8C8CrDnY/0.jpg)](https://www.youtube.com/watch?v=r2B8C8CrDnY)
