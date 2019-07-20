@@ -61,3 +61,6 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [From localhost to production: Managing your code with Azure DevOps - Jay Harris](https://www.kcdc.info/session/ses-79285)
 [![still image from video](https://img.youtube.com/vi/x3Ww7-hcZvw/0.jpg)](https://www.youtube.com/watch?v=x3Ww7-hcZvw)
+
+### [Getting started with Azure Machine Learning services - Henk Boelman](https://www.kcdc.info/session/ses-83380)
+[![still image from video](https://img.youtube.com/vi/dwiVnrTC5Do/0.jpg)](https://www.youtube.com/watch?v=dwiVnrTC5Do)
