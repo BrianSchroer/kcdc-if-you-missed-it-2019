@@ -70,3 +70,9 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [How not to be the best app no one uses: Effective Onboarding for fun & profit - Kendall Miller](https://www.kcdc.info/session/ses-82459)
 [![still image from video](https://img.youtube.com/vi/BvVNGTAbPss/0.jpg)](https://www.youtube.com/watch?v=BvVNGTAbPss)
+
+### [I'm Going To Make You Stop Hating CSS - Lemon](https://www.kcdc.info/session/ses-77253)
+[![still image from video](https://img.youtube.com/vi/Xp6Kv62rlHw/0.jpg)](https://www.youtube.com/watch?v=Xp6Kv62rlHw)
+
+### [Keyboards? Where we’re going, we don’t need keyboards - Don Wibier](https://www.kcdc.info/session/ses-85070)
+[![still image from video](https://img.youtube.com/vi/_jA4gLZtFSE/0.jpg)](https://www.youtube.com/watch?v=_jA4gLZtFSE)
