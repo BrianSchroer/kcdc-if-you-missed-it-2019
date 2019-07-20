@@ -105,3 +105,16 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [Scaling Agile in your Organization with the Spotify Model - Stephen Haunts](https://www.kcdc.info/session/ses-84475)
 [![still image from video](https://img.youtube.com/vi/dw6wJMqzl2Y/0.jpg)](https://www.youtube.com/watch?v=dw6wJMqzl2Y)
+
+### [Serverless Architecture Fundamentals - Pratik Patel](https://www.kcdc.info/session/ses-82575)
+[![still image from video](https://cfvod.kaltura.com/p/1926081/sp/192608100/thumbnail/entry_id/1_vq81qnci/version/100001/width/312/height/400)](https://www.oreilly.com/library/view/oreilly-software-architecture/9781492025917/video323656.html)
+
+### [Service Mesh Magic? - Frank Munz](https://www.kcdc.info/session/ses-80694)
+(https://www.kcdc.info/session/ses-84475)
+[![still image from video](https://img.youtube.com/vi/7yQaaPhqsZw/0.jpg)](https://www.youtube.com/watch?v=7yQaaPhqsZw)
+
+### [Software Testing From Failed Projects - Todd Gardner](https://www.kcdc.info/session/ses-81938)
+[![still image from video](https://i.vimeocdn.com/video/576725136_590x332.webp)](https://vimeo.com/171319741)
+
+### [SOLID – The Five Commandments of Good Software - Chris Klug](https://www.kcdc.info/session/ses-80494)
+[![still image from video](https://sec.ch9.ms/ch9/bb3d/76f3ba6d-f9b3-49c4-9643-2f6aef39bb3d/VSLive17SolidThefiveCommandmentsofGoodSoftware_512.jpg)](https://channel9.msdn.com/Events/Visual-Studio/Live-2017/W19)
