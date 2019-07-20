@@ -52,3 +52,6 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [Deep Learning like a Viking: Building Convolutional Neural Networks with Keras - Guy Royse](https://www.kcdc.info/session/ses-77822)
 [![still image from video](https://img.youtube.com/vi/r2B8C8CrDnY/0.jpg)](https://www.youtube.com/watch?v=r2B8C8CrDnY)
+
+### [Drinking from the Stream: How to Use Messaging Platforms for Scalability & Performance - Mark Heckler](https://www.kcdc.info/session/ses-83831)
+[![still image from video](https://img.youtube.com/vi/POCVdJ2hCLw/0.jpg)](https://www.youtube.com/watch?v=POCVdJ2hCLw)
