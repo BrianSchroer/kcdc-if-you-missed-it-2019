@@ -76,3 +76,10 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [Keyboards? Where we’re going, we don’t need keyboards - Don Wibier](https://www.kcdc.info/session/ses-85070)
 [![still image from video](https://img.youtube.com/vi/_jA4gLZtFSE/0.jpg)](https://www.youtube.com/watch?v=_jA4gLZtFSE)
+
+### [Machine Learning for .NET Developers with ML.NET - John Alexander](https://www.kcdc.info/session/ses-78183)
+[![still image from video](https://img.youtube.com/vi/nmWrLqsT-XU/0.jpg)](https://www.youtube.com/watch?v=nmWrLqsT-XU)
+
+### [Mirror mirror on the wall, what is the vainest metric of them all? - Paul Stack](https://www.kcdc.info/session/ses-101352)
+
+[![still image from video](https://img.youtube.com/vi/XJsgvyMm-HY/0.jpg)](https://www.youtube.com/watch?v=XJsgvyMm-HY)
