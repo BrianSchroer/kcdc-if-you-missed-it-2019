@@ -11,7 +11,7 @@ If you missed a session at [KCDC 2019](https://www.kcdc.info/sessions) (or if yo
 [![still image from video](https://img.youtube.com/vi/cQNXk5gR2sA/0.jpg)](https://www.youtube.com/watch?v=cQNXk5gR2sA)
 
 ### [AkkaStreams for Mere Mortals - Vagif Abilov](https://www.kcdc.info/session/ses-79048)
-This video is in Russian, but there's an English transcript you can read. Or, learn Akka and Russian at the same time! I for one welcome our new overlords.
+This video is in Russian, but there's an English transcript you can read. Or, learn Akka and Russian at the same time! I for one welcome our new Russian overlords.
 
 [![still image from video](https://img.youtube.com/vi/ibpnza_PCr0/0.jpg)](https://weekly-geekly.github.io/articles/418639/index.html)
 
@@ -28,8 +28,7 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 [![still image from video](https://img.youtube.com/vi/sLIqdigpFj8/0.jpg)](https://www.youtube.com/watch?v=sLIqdigpFj8)
 
 ### [Building a mobile enterprise application with Xamarin.Forms, Docker, MVVM and .NET Core - Gill Cleeren](https://www.kcdc.info/session/ses-80372)
-
-<https://www.updateconference.net/cs/2018/session/building-a-mobile-enterprise-application-with-xamarin-forms--docker--mvvm-and--net-core>
+[![still image from video](https://img.youtube.com/vi/d95DbeodRk8/0.jpg)](https://www.youtube.com/watch?v=d95DbeodRk8)
 
 ### [Building High Performance React Applications - Joe Karlsson](https://www.kcdc.info/session/ses-80582)
 [![still image from video](https://img.youtube.com/vi/xJYOipHkwNM/0.jpg)](https://www.youtube.com/watch?v=xJYOipHkwNM)
