@@ -26,24 +26,22 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 ### An AI with an Agenda: How Our Cognitive Biases Leak Into Machine Learning - Arthur Doler
 [*session synopsis*](https://www.kcdc.info/session/ses-80896)
 
-<https://www.youtube.com/watch?v=0_6pSLVkaMM>
-
 [![link to video](https://img.youtube.com/vi/0_6pSLVkaMM/0.jpg)](https://www.youtube.com/watch?v=0_6pSLVkaMM)
 
 ### An Introduction to WebAssembly - Guy Royse
 [*session synopsis*](https://www.kcdc.info/session/ses-77823)
 
-<https://www.youtube.com/watch?v=9o4R2fOgd7M>
+[![link to video](https://img.youtube.com/vi/9o4R2fOgd7M/0.jpg)](https://www.youtube.com/watch?v=9o4R2fOgd7M)
 
 ### Back to the CompletableFuture: Concurrency in Action - Dmitry Vinnik
 [*session synopsis*](https://www.kcdc.info/session/ses-85724)
 
-<https://www.youtube.com/watch?v=husm8xMJ2So>
+[![link to video](https://img.youtube.com/vi/husm8xMJ2So/0.jpg)](https://www.youtube.com/watch?v=husm8xMJ2So)
 
 ### Build software like a bag of marbles, not a castle of LEGO® - Hannes Lowette
 [*session synopsis*](https://www.kcdc.info/session/ses-78271)
 
-<https://www.youtube.com/watch?v=sLIqdigpFj8>
+[![link to video](https://img.youtube.com/vi/sLIqdigpFj8/0.jpg)](https://www.youtube.com/watch?v=sLIqdigpFj8)
 
 ### Building a mobile enterprise application with Xamarin.Forms, Docker, MVVM and .NET Core - Gill Cleeren
 [*session synopsis*](https://www.kcdc.info/session/ses-80372)
@@ -53,14 +51,14 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 ### Building High Performance React Applications - Joe Karlsson
 [*session synopsis*](https://www.kcdc.info/session/ses-80582)
 
-<https://www.youtube.com/watch?v=xJYOipHkwNM>
+[![link to video](https://img.youtube.com/vi/xJYOipHkwNM/0.jpg)](https://www.youtube.com/watch?v=xJYOipHkwNM)
 
 ### Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems
 [*session synopsis*](https://www.kcdc.info/session/ses-83833)
 
-<https://www.youtube.com/watch?v=h6ExDXS2JCI>
+[![link to video](https://img.youtube.com/vi/h6ExDXS2JCI/0.jpg)](https://www.youtube.com/watch?v=h6ExDXS2JCI)
 
 ### From Business Intelligence to Artificial Intelligence - Caleb Wilkinson
 [*session synopsis*](https://www.kcdc.info/session/ses-129050)
 
-<https://www.youtube.com/watch?v=NmxYWmx5oNA>
+[![link to video](https://img.youtube.com/vi/NmxYWmx5oNA/0.jpg)](https://www.youtube.com/watch?v=NmxYWmx5oNA)
