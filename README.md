@@ -55,3 +55,6 @@ This video is in Russian, but there's an English transcript you can read. Or, le
 
 ### [Drinking from the Stream: How to Use Messaging Platforms for Scalability & Performance - Mark Heckler](https://www.kcdc.info/session/ses-83831)
 [![still image from video](https://img.youtube.com/vi/POCVdJ2hCLw/0.jpg)](https://www.youtube.com/watch?v=POCVdJ2hCLw)
+
+### [Focusing on Focus - Chris DeMars](https://www.kcdc.info/session/ses-77877)
+[![still image from video](https://img.youtube.com/vi/gUK0ieCJkRI/0.jpg)](https://www.youtube.com/watch?v=gUK0ieCJkRI)
